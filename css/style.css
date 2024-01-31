@@ -445,7 +445,7 @@ nav {
     background: var(--clr-accent);
     flex: 1 1 0px;
     overflow: hidden;
-    max-width: 750px;
+    max-width: 400px;
     min-width: 400px;
 
 }
